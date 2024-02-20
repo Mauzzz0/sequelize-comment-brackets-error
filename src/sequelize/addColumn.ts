@@ -1,5 +1,5 @@
 import { DataType, Sequelize } from 'sequelize-typescript';
-import { ModelEntity } from './ModelEntity';
+import { ModelEntity } from '../entities/ModelEntity';
 import { createSequelize } from './createSequelize';
 
 export enum StatusEnum {

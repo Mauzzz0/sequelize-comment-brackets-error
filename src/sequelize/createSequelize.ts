@@ -1,5 +1,5 @@
 import { Sequelize } from 'sequelize-typescript';
-import { ModelEntity } from './ModelEntity';
+import { ModelEntity } from '../entities/ModelEntity';
 
 export const createSequelize = async (): Promise<Sequelize> => {
   const cfg = {

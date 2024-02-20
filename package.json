@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "success": "ts-node case_success.ts",
-    "fail": "ts-node case_fail.ts"
+    "success": "ts-node src/case_success.ts",
+    "fail": "ts-node src/case_fail.ts"
   },
   "author": "Mauzzz0",
   "license": "ISC",
