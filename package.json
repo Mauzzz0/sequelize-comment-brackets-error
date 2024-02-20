@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "succes": "ts-node case_success.ts",
+    "success": "ts-node case_success.ts",
     "fail": "ts-node case_fail.ts"
   },
   "author": "Mauzzz0",
