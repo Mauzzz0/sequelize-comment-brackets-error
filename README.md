@@ -40,7 +40,7 @@ Error: `unterminated quoted string at or near "';"`
 ## Steps to reproduce
 * Initialize sequelize, add one model
 * Using queryInterface add `enum` column with any comment that ends with symbol `)`
-* I will get syntax error like mentioned above.
+* You will get syntax error like mentioned above.
 
 ## Related code
 Link to small reproducable repo: https://github.com/Mauzzz0/sequelize-comment-brackets-error  
